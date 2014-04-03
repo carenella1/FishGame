@@ -1,0 +1,15 @@
+﻿
+
+Find out if I can completely replace Game1 
+and put it all in screen class OR use Game1
+as the main Screen abstract class.
+
+Test SplashScreen, MenuScreen and GameScreen 
+with inputs, images, and sprites. 
+
+Use Update function for each Screen child to
+use static call of GameStateManager Instance
+to switch between screens.
+
+Create a hide/change function in GameStateManager
+so we dont delete classes and create classes carelessly.
